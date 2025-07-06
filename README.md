@@ -55,9 +55,10 @@ You can use [Postman] to test the API. A sample Postman collection can be create
 ```json
 sample example :-
 {
-  "name": "Sneha Sabde",
+  "firstName": "Londo",
+   "lastName" : "Norris",
   "email": "sneha@example.com",
-  "course": "Computer Engineering"
+
 }
 
 
